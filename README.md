@@ -17,4 +17,4 @@ CRA - [Computer Research Association](https://www.instagram.com/cra_handong/) (2
 2021.08. - SW중심대 연합, 2021 모형차 자율주행 경진대회 주행결과 부문 동상\
 2021.09. - 교내 2021 SW교육동영상 공모전 우수상
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr)
