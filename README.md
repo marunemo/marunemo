@@ -22,5 +22,6 @@ CRA - [Computer Research Association](https://www.instagram.com/cra_handong/) (2
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr" style="width: 50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marunemo&exclude_repo=merge_game&layout=compact&theme=chartreuse-dark" style="width: 42%"/>
+  <a href="https://solved.ac/nemomaru"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nemomaru" style="width: 42%"/></a>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marunemo&exclude_repo=merge_game&layout=compact&theme=chartreuse-dark" style="width: 42%"/> -->
 </div>
