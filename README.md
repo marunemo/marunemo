@@ -20,14 +20,14 @@
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,md" />
 </div>
-</div>
 
-<br />
+</div>
+<br /><br />
 
 <div id="footer" align="center">
   
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr" />
+<img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight" />
 <br />
 
 ## Programming Problem Solving(PPS)
