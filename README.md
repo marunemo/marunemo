@@ -1,27 +1,36 @@
-### Hi, there!! 👋
+<div id="header" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Programmer&fontColor=F8D1A5&fontSize=90&fontAlignY=45&desc=with%20Lazy%20Propagation&descAlign=69&animation=fadeIn" />
+  <hr />
+</div>
 
-#### 소속
-CRA - [Computer Research Association](https://www.instagram.com/cra_handong/) (2020.04.05. ~ )
+<div id="body">
+  
+### 🤗 Hi there!
 
-#### 프로젝트
+### I am a undergraduated Computer Science developer.
+* I am interested in Web💻 and Software Engineering⚙️.
+* I am learning CS algorithm🧮 by PPS✍️.
+* I am trying blogging📝 for understading the various fields of Computer Science.
+* I want to be a **Programmer**, not a Coder.
 
-- [한냥만요](https://github.com/marunemo/CRA_HGUCat) (2020. 07. 22. ~ 2020. 10. 29.)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuSoeun&repo=CRA_HGUCat&theme=vue)](https://github.com/YuSoeun/CRA_HGUCat)
-- [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021. 07. 03. ~ )\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marunemo&repo=Hanchelin_Guide&theme=react)](https://github.com/marunemo/Hanchelin_Guide)
+### 'Til now I studied
 
-#### 수상 내역
+<div id="dev"> <!-- align="center"> -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,unity,androidstudio,html,css,js,nodejs,react,nextjs,firebase" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,md" />
+</div>
+</div>
 
-2020.11. - 교내 2020 한동대 SW페스티벌 우수상\
-2020.12. - 교내 2020년도 C프로그래밍 컨테스트 최우수상
+<br />
 
-2021.07. - 2021 대경권 프로그래밍 경진대회 우수상\
-2021.08. - SW중심대 연합, 2021 모형차 자율주행 경진대회 주행결과 부문 동상\
-2021.09. - 교내 2021 SW교육동영상 공모전 우수상\
-2021.12. - 교내 2020 한동대 SW페스티벌 스마트 어플리케이션 공모전 부문 우수상\
+<div id="footer">
+  
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr" />
+<br />
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr" style="width: 50%"/>
-  <a href="https://solved.ac/nemomaru"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nemomaru" style="width: 42%"/></a>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marunemo&exclude_repo=merge_game&layout=compact&theme=chartreuse-dark" style="width: 42%"/> -->
+## Programming Problem Solving(PPS)
+<a href="https://solved.ac/nemomaru"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nemomaru" /></a>
+
 </div>
