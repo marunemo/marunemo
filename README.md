@@ -24,7 +24,7 @@
 
 <br />
 
-<div id="footer">
+<div id="footer" align="center">
   
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=marunemo&show_icons=true&theme=tokyonight&locale=kr" />
